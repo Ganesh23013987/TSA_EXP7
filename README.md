@@ -119,7 +119,7 @@ PREDICTION
 
 FINIAL PREDICTION
 
-<img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/2f43ad00-c233-48b9-a532-2c6906dcc977" />
+<img width="1352" height="673" alt="image" src="https://github.com/user-attachments/assets/8e31f645-24a1-47b1-8800-6572a6a5f84f" />
 
 
 ### RESULT:
